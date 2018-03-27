@@ -1,2 +1,2 @@
 # Simple-Calculator
-Very simple calculator ade with C-Graphics
+Very simple calculator made with C-Graphics
